@@ -1,0 +1,19 @@
+*{margin: 0; box-sizing: border-box;}
+
+header, main, section, footer {display: block}
+
+header {
+  background-color: #f8d7da;
+}
+.salon {text-align: center; }
+
+.menu {
+  color: white;
+}
+
+footer {
+  background-color: #f8d7da;
+}
+.foot {
+  text-align: center; 
+}
