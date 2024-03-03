@@ -1,19 +1,16 @@
 <header>
 <div class="row">
-<div class="col-lg-4">  
-</div>
+<div class="col-lg-4"></div>
 
 <div class="col-lg-4">  
 <h3 class="salon">Салон красоты <br>Bellezza</h3>
 </div>
 
-<div class="col-4">  
-</div>
+<div class="col-4"></div>
 
-
-<div class="col-lg-12">  
-<nav class="navbar navbar-expand-lg">
-                <div class="container-fluid justify-content-center ">
+  <div class="col-lg-12">  
+    <nav class="navbar navbar-expand-lg">
+              <div class="container-fluid justify-content-center ">
                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Переключатель навигации">
                     <span class="navbar-toggler-icon"></span>
                   </button>
@@ -38,8 +35,8 @@
                     </ul>
                   </div>
                 </div>
-              </nav>
-            </div>
-</div>
-</div>
+              </div>
+           </nav>
+       </div>
+   </div>
 </header> 
