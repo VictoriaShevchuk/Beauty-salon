@@ -10,6 +10,8 @@ header {
 .menu {
   color: white;
 }
+.banner{background-image: url("../images/fon1.jpg");height: 293px;background-repeat: no-repeat;background-size: cover;margin-top: 12px;}
+
 
 footer {
   background-color: #f8d7da;
