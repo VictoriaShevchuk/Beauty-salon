@@ -1,13 +1,10 @@
 <header>
 <div class="row">
 <div class="col-lg-4"></div>
-
 <div class="col-lg-4">  
 <h3 class="salon">Салон красоты <br>Bellezza</h3>
 </div>
-
 <div class="col-4"></div>
-
   <div class="col-lg-12">  
     <nav class="navbar navbar-expand-lg">
               <div class="container-fluid justify-content-center ">
