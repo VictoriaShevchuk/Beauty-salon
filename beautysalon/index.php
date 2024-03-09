@@ -28,7 +28,7 @@ include 'template/data.php';
                  $result= $mysqli->query('SELECT * FROM uslugi');
                  foreach( $result as $row)   //для каждой строки результата $row  в цикле повторим
                  {
-                  echo '<tr><td> <img src="'.$row['img'].'"</td>    
+                  echo '<tr><td> <img src="'.$row['img'].'"></td>    
                         <tr><td>'.$row['name'].'</td>
                         <td>'.$row['price'].'</td>
                         <td>'.$row['opis_uslugi'].'</td></tr>';
