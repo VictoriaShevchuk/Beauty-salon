@@ -35,7 +35,7 @@
           </div>
      <div class="col-lg-1"> 
       <div class="lichka">
-       <a href="lichka.php"><img src="images/22.png" alt="Личный"style="width:40px"></a>
+       <a href="lichka.php"><img src="images/22.png" alt="Личный"width="40"></a>
       </div>
      </div>
      <div class="col-lg-2"> 
